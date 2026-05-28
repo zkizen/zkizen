@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Zaki Zein 👋</h1>
 
 <p align="center">
-  <b>Network & Security Explorer</b> · SMK TKJ Graduate · Incoming @ Politeknik Negeri Jakarta
+  <b>Network & Security Explorer</b> · SMK TKJ Graduate ·
 </p>
 
 <p align="center">
