@@ -46,7 +46,7 @@ Lagi belajar dan ngutak-ngatik:
 |---|---|---|
 | [ospf-multiarea-lab](https://github.com/zkizen/ospf-multiarea-lab) | Simulasi OSPF multi-area dengan GNS3 + full dokumentasi | ✅ Done |
 | [network-monitor-python](https://github.com/zkizen/network-monitor-python) | Script Python untuk monitoring jaringan + alert Telegram | ✅ Done |
-| [netsec-automation-toolkit](.) | Ansible + Python untuk backup config & deteksi anomali | 🚧 Soon |
+| [netsec-automation-toolkit](https://github.com/zkizen/netsec-automation-toolkit) | Ansible + Python untuk backup config & deteksi anomali | ✅ Done |
 
 ---
 
