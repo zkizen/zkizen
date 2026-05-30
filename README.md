@@ -16,7 +16,7 @@
 
 ### Tentang gue
 
-Lulusan SMK jurusan Teknik Jaringan Komputer & Telekomunikasi, sekarang lagi eksplor dunia **networking, security, dan automation** sebelum mulai kuliah di PNJ prodi Teknik Multimedia & Jaringan.
+Lulusan SMK jurusan Teknik Jaringan Komputer & Telekomunikasi, sekarang lagi eksplor dunia **networking, security, dan automation**
 
 Lagi belajar dan ngutak-ngatik:
 - 🔬 Network lab simulation (GNS3, Packet Tracer)
@@ -58,8 +58,3 @@ Lagi belajar dan ngutak-ngatik:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zkizen&show_icons=true&hide_border=true&theme=default" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkizen&layout=compact&hide_border=true&theme=default" height="130"/>
-</p>
